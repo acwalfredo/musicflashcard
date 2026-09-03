@@ -1,40 +1,41 @@
 {
-  "name": "幼兒五線譜視譜記憶卡",
-  "short_name": "視譜記憶卡",
-  "description": "專為4歲寶寶設計視譜練習card",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "orientation": "landscape",
-  "background_color": "#FFFDF9",
-  "theme_color": "#F59E0B",
- "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "screenshot1.png",
-      "sizes": "720x1280",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "五線譜視譜練習"
-    },
-    {
-      "src": "screenshot2.png",
-      "sizes": "720x1280",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "五線譜視譜練習"
-    }
-  ]
+"id": "./musicflashcard/",
+"name": "幼兒五線譜視譜記憶卡",
+"short_name": "視譜記憶卡",
+"description": "專為4歲寶寶設計視譜練習card",
+"start_url": "./index.html",
+"display": "standalone",
+"orientation": "landscape",
+"background_color": "#FFFDF9",
+"theme_color": "#F59E0B",
+"icons": [
+{
+"src": "icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src": "icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+],
+"screenshots": [
+{
+"src": "screenshot1.png",
+"sizes": "720x1280",
+"type": "image/png",
+"form_factor": "wide",
+"label": "五線譜視譜練習"
+},
+{
+"src": "screenshot2.png",
+"sizes": "720x1280",
+"type": "image/png",
+"form_factor": "wide",
+"label": "五線譜視譜練習"
+}
+]
 }
