@@ -7,7 +7,7 @@
   "orientation": "landscape",
   "background_color": "#FFFDF9",
   "theme_color": "#F59E0B",
-  "icons": [
+ "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
@@ -19,6 +19,22 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "五線譜視譜練習"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "五線譜視譜練習"
     }
   ]
 }
