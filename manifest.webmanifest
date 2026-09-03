@@ -1,11 +1,4 @@
 {
-  "id": "/musicflashcard/",
-  "name": "音樂字卡",
-  "short_name": "字卡App",
-  "start_url": "./index.html"
-}
-
-{
   "name": "幼兒五線譜視譜記憶卡",
   "short_name": "視譜記憶卡",
   "description": "專為4歲寶寶設計視譜練習card",
